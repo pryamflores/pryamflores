@@ -1,5 +1,5 @@
 # 💫 About Me:
-🆕I am newbie <br>🔎Love to explore and learn<br>🧑‍💻Yes to coding<br>
+🆕I’m a newbie. <br>🔎Love to explore and learn<br>🧑‍💻Yes to coding<br>
 
 
 ## 🌐 Socials:

@@ -45,9 +45,10 @@
 ---
 
 <!-- Animated Tech Stack -->
-## 💻 Tech Stack
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,html,next,laravel,mysql,powerbi,postman,figma,canva&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,next,laravel,mysql,postman,figma,canva&theme=dark" />
+  <br />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
 </p>
 
 
@@ -56,8 +57,7 @@
 <!-- GitHub Stats -->
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pryamflores&theme=react&hide_border=false&include_all_commits=true&count_private=true" height="150" />
-  [<img src="https://github-readme-streak-stats.herokuapp.com/?user=pryamflores&theme=react&hide_border=false" height="150" />](https://github-readme-streak-stats.demolab.com/?user=pryamflores&theme=react&hide_border=false
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pryamflores&theme=react&hide_border=false" height="150" 
 )
 </p>
 <p align="center">

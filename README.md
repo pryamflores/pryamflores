@@ -57,7 +57,8 @@
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pryamflores&theme=react&hide_border=false&include_all_commits=true&count_private=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pryamflores&theme=react&hide_border=false" height="150" />
+  [<img src="https://github-readme-streak-stats.herokuapp.com/?user=pryamflores&theme=react&hide_border=false" height="150" />](https://github-readme-streak-stats.demolab.com/?user=pryamflores&theme=react&hide_border=false
+)
 </p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pryamflores&bg_color=000000&color=00ff00&line=00ff00&point=00ff00&area=true&hide_border=true" />

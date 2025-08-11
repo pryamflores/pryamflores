@@ -9,7 +9,7 @@
 ## 💫 About Me
 🌱 **Beginner Developer**
 🔍 **Curious Explorer**   
-💻 **Yes to CODING** 
+💻 **Yes to Coding** 
 
 ---
 

@@ -1,6 +1,6 @@
 <!-- Typing Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi+there!+👋;I'm+Pryam+Flores;Newbie+Developer;Always+Learning+%26+Exploring;Love+to+Code!+💻">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi+there!+👋;I'm+Pryam+Flores;Newbie+Developer;">
 </h1>
 
 ---
@@ -56,8 +56,9 @@
 <!-- GitHub Snake Animation -->
 ## 🐍 Watch My Contributions Snake!
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake" />
+  <img src="https://github.com/pryamflores/pryamflores/blob/output/github-contribution-grid-snake.svg" alt="snake" />
 </p>
+
 
 ---
 

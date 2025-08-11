@@ -48,8 +48,6 @@
 <div align="center">
   
 ![](https://nirzak-streak-stats.vercel.app/?user=pryamflores&theme=radical&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api?username=pryamflores&theme=radical&hide_border=false&include_all_commits=false&count_private=true)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pryamflores&theme=radical&hide_border=false&layout=compact)
 
 </div>
 

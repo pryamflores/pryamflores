@@ -54,7 +54,7 @@
 ---
 
 <!-- GitHub Stats -->
-## 📊 GitHub Stats
+## GitHub Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pryamflores&theme=react&hide_border=false" height="150" 
 )

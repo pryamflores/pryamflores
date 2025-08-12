@@ -16,12 +16,11 @@
   
 - ✨ **Beginner Developer** — starting my coding journey  
 - 🕵️ **Curious Explorer** — learning new tech  
-- 💻 **Yes to Coding** — passion for creating things with code  
-- 🎯 **Goal** — become a full-stack developer  
+- 💻 **Yes to Coding** — passion for creating things with code   
 
 </td>
 <td align="center" width="50%">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
 </td>
 </tr>
 </table>

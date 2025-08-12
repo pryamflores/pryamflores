@@ -53,12 +53,12 @@
 
 ---
 
-<!-- GitHub Stats -->
-## GitHub Stats
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pryamflores&theme=react&hide_border=false" height="150" 
-)
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=pryamflores&theme=react&hide_border=false&background=000000&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" height="150" />
 </p>
+
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pryamflores&bg_color=000000&color=00ff00&line=00ff00&point=00ff00&area=true&hide_border=true" />
 </p>

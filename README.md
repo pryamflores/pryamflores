@@ -45,10 +45,14 @@
 
 <!-- Animated Tech Stack -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,next,laravel,mysql,postman,figma,canva&theme=dark" />
+  <!-- Skill icons -->
+  <img src="https://skillicons.dev/icons?i=js,ts,html,next,laravel,mysql,firebase,postman,figma,canva,powerbi&theme=dark" />
   <br />
+
+  <!-- Optional: Power BI badge version -->
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
 </p>
+>
 
 
 ---

@@ -14,7 +14,7 @@
 <tr>
 <td width="50%">
   
-- ✨ **Beginner Developer** — starting my coding journey  
+- ✨ **Newbie Developer** — starting my coding journey  
 - 🕵️ **Curious Explorer** — learning new tech  
 - 💻 **Yes to Coding** — passion for creating things with code   
 

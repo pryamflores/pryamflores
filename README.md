@@ -1,6 +1,6 @@
 <!-- Typing Animation Header with Glow -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=550&lines=Hi+there!+👋;I'm+Pryam+Flores;Passionate+Newbie+Developer;Welcome+to+My+GitHub+Profile" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=550&lines=Hi+there!+👋;I'm+Pryam+Flores;Passionate+Newbie+Developer;Welcome+to+My+GitHub+Profile" alt="Typing Animation" />
 </h1>
 
 <!-- Animated Wave Divider -->
@@ -15,7 +15,7 @@
 <td width="50%">
   
 - ✨ **Newbie Developer** — starting my coding journey  
-- 🕵️ **Love To Explorer** — learning new tech  
+- 🕵️ **Love To Explore** — learning new tech  
 - 💻 **Yes to Coding** — passion for creating things with code   
 
 </td>
@@ -48,12 +48,9 @@
   <!-- Skill icons -->
   <img src="https://skillicons.dev/icons?i=js,ts,html,next,laravel,mysql,postman,firebase,figma,canva,powerbi&theme=dark" />
   <br />
-
-  <!-- Optional: Power BI badge version -->
+  <!-- Power BI badge -->
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
 </p>
-
-
 
 ---
 
@@ -62,17 +59,15 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?username=pryamflores&theme=react&hide_border=false&background=000000&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" height="150" />
 </p>
 
-
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pryamflores&bg_color=000000&color=00ff00&line=00ff00&point=00ff00&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pryamflores&bg_color=000000&color=00FF00&line=00FF00&point=00FF00&area=true&hide_border=true" />
 </p>
 
 ---
 
 <!-- GitHub Snake -->
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/pryamflores/pryamflores/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---

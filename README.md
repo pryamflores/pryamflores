@@ -59,7 +59,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=pryamflores&theme=react&hide_border=false&background=000000&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?username=pryamflores&theme=react&hide_border=false&background=000000&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" height="150" />
 </p>
 
 

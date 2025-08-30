@@ -46,7 +46,7 @@
 <!-- Animated Tech Stack -->
 <p align="center">
   <!-- Skill icons -->
-  <img src="https://skillicons.dev/icons?i=js,ts,html,next,laravel,mysql,firebase,postman,figma,canva,powerbi&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,next,laravel,mysql,firebase,postman,figma,python,canva,powerbi&theme=dark" />
   <br />
 
   <!-- Optional: Power BI badge version -->

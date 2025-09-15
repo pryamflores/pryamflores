@@ -43,7 +43,7 @@
 
 ## 🛠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,next,laravel,mysql,firebase,postman,figma,python,canva,powerbi&theme=dark" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,html,next,laravel,mysql,firebase,figma,python,next.js,canva,powerbi&theme=dark" alt="Tech Stack"/>
 </p>
 
 <p align="center">
@@ -51,11 +51,6 @@
 </p>
 
 ---
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?username=pryamflores&theme=react&hide_border=false&background=000000&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" height="150" alt="GitHub Streak"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pryamflores&bg_color=000000&color=00ff00&line=00ff00&point=00ff00&area=true&hide_border=true" alt="GitHub Activity Graph"/>

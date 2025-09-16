@@ -45,11 +45,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,next,laravel,mysql,firebase,figma,python,netlify,canva,powerbi&theme=dark" alt="Tech Stack"/>
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI"/>
-</p>
-
 ---
 
 <p align="center">

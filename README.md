@@ -43,7 +43,7 @@
 
 ## 🛠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,next,laravel,mysql,firebase,figma,python,netlify,canva,powerbi&theme=dark" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=react,next,laravel,mysql,firebase,figma,python,netlify,canva,powerbi&theme=dark" alt="Tech Stack"/>
 </p>
 ---
 

@@ -51,9 +51,10 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="48" height="48" alt="Figma"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="48" height="48" alt="Python"/>
   <img src="https://www.netlify.com/v3/img/components/logomark.png" width="48" height="48" alt="Netlify"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Canva_logo.svg" width="48" height="48" alt="Canva"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/canva-1.svg" width="48" height="48" alt="Canva"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="48" height="48" alt="Power BI"/>
 </p>
+
 
 ---
 

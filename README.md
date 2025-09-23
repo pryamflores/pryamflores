@@ -43,8 +43,18 @@
 
 ## 🛠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,next,laravel,mysql,firebase,figma,python,netlify,canva,powerbi&theme=dark" alt="Tech Stack"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="48" height="48" alt="React"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" width="48" height="48" alt="Next.js"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" width="48" height="48" alt="Laravel"/>
+  <img src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png" width="48" height="48" alt="MySQL"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="48" height="48" alt="Firebase"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="48" height="48" alt="Figma"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="48" height="48" alt="Python"/>
+  <img src="https://www.netlify.com/v3/img/components/logomark.png" width="48" height="48" alt="Netlify"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Canva_logo.svg" width="48" height="48" alt="Canva"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="48" height="48" alt="Power BI"/>
 </p>
+
 ---
 
 <p align="center">

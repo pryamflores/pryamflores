@@ -52,7 +52,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="48" height="48" alt="Python"/>
   <img src="https://www.netlify.com/v3/img/components/logomark.png" width="48" height="48" alt="Netlify"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="48" height="48" alt="Power BI"/>
-  <img src="https://skillicons.dev/icons?i=canva&theme=dark" alt="Tech Stack"/>
 </p>
 
 

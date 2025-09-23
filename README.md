@@ -13,9 +13,9 @@
 <tr>
 <td width="50%" valign="top">
 
-- ✨ **Newbie Developer** — starting my coding journey  
-- 🕵️ **Love To Explore** — learning new tech  
-- 💻 **Yes to Coding** — passion for creating things with code   
+- ✨ **Newbie Developer**  
+- 🕵️ **Love To Explore** 
+- 💻 **Yes to Coding**    
 
 </td>
 <td align="center" width="50%">

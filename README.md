@@ -9,13 +9,14 @@
 ---
 
 ## 💫 About Me
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
 - ✨ **Newbie Developer**  
-- 🕵️ **Love To Explore** 
-- 💻 **Yes to Coding**    
+- 🕵️ **Love to Explore**  
+- 💻 **Passionate About Coding**  
 
 </td>
 <td align="center" width="50%">
@@ -27,6 +28,7 @@
 ---
 
 ## 🌐 Connect with Me
+
 <p align="center">
   <a href="https://www.facebook.com/pryam.flores" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
@@ -42,6 +44,7 @@
 ---
 
 ## 🛠 Tech Stack
+
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="48" height="48" alt="React"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" width="48" height="48" alt="Next.js"/>
@@ -54,9 +57,9 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="48" height="48" alt="Power BI"/>
 </p>
 
-
-
 ---
+
+## 📊 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pryamflores&bg_color=000000&color=00ff00&line=00ff00&point=00ff00&area=true&hide_border=true" alt="GitHub Activity Graph"/>
@@ -65,14 +68,16 @@
 ---
 
 ## 🐍 GitHub Snake
+
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="GitHub Snake"/>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Snake"/>
 </p>
 
 ---
 
-<!-- Footer with Animated Quote -->
+<!-- Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=100&section=footer" width="100%" alt="Footer Divider"/>
+
 <p align="center">
   💡 <i>"Code is like humor. When you have to explain it, it’s bad."</i>
 </p>

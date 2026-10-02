@@ -53,7 +53,7 @@
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="48" height="48" alt="Firebase"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="48" height="48" alt="Figma"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="48" height="48" alt="Python"/>
-  <img src="https://www.netlify.com/v3/img/components/logomark.png" width="48" height="48" alt="Netlify"/>
+  <img src="https://cdn.simpleicons.org/netlify/00C7B7" width="48" height="48" alt="Netlify"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="48" height="48" alt="Power BI"/>
 </p>
 

@@ -51,15 +51,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="48" height="48" alt="Power BI"/>
 </p>
 
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pryamflores&bg_color=000000&color=00ff00&line=00ff00&point=00ff00&area=true&hide_border=true" alt="GitHub Activity Graph"/>
-</p>
-
----
 
 ## 🐍 GitHub Snake
 

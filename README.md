@@ -1,11 +1,5 @@
 <!-- Typing Animation Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=550&lines=Hi+there!+👋;I'm+Pryam+Flores;Passionate+Newbie+Developer;Welcome+to+My+GitHub+Profile" alt="Typing Animation" />
-</h1>
-
-<!-- Animated Wave Divider -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=120&section=header&text=Welcome!&fontSize=40&fontColor=FFFFFF&animation=fadeIn" width="100%" alt="Wave Divider"/>
-
 ---
 
 ## 💫 About Me
